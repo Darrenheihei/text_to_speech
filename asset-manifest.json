@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/text_to_speech/static/js/main.f60fafa4.js",
+    "index.html": "/text_to_speech/index.html",
+    "main.f60fafa4.js.map": "/text_to_speech/static/js/main.f60fafa4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f60fafa4.js"
+  ]
+}
